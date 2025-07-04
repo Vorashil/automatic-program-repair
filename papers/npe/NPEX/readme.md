@@ -4,5 +4,5 @@ Link: https://prl.korea.ac.kr/papers/npex.pdf
 
 Year: 2022
 
-Notes: TODO
+Notes: 
 
